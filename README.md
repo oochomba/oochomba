@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi there, I'm Obadiah Ochomba!
 
-<!--
-**oochomba/oochomba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Web Developer | Laravel Specialist | JavaScript Enthusiast**
 
-Here are some ideas to get you started:
+I specialize in building robust, scalable, and user-focused web applications using **PHP (Laravel)**, while also being highly proficient in **JavaScript** and modern frontend technologies. I stay up to date with current tech trends and I’m always open to **collaborations, contributions, and meaningful connections** in the tech space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- 🐘 PHP (Laravel, CodeIgniter)
+- 🛢️ MySQL / PostgreSQL
+- 🔐 REST APIs & Authentication
+
+### Frontend
+- ⚡ JavaScript (ES6+)
+- 🌐 HTML5, CSS3
+- 🎨 Bootstrap / Tailwind CSS
+
+### Tools & DevOps
+- 🧰 Git & GitHub
+- 🐧 Linux / Windows
+- ☁️ Basic Cloud & Deployment
+- 🧪 Testing & Debugging
+
+---
+
+## 🌟 What I Do Best
+- Build **scalable web applications**
+- Design and integrate **RESTful APIs**
+- Develop **admin dashboards & systems**
+- Maintain and optimize **legacy systems**
+- Provide **ICT & technical support**
+
+---
+
+## 🤝 Open To
+- 🔹 Open-source contributions  
+- 🔹 Freelance & remote projects  
+- 🔹 Startup collaborations  
+- 🔹 Tech communities & networking  
+
+---
+
+## 📈 Current Focus
+- Advanced Laravel architecture  
+- Modern JavaScript frameworks  
+- System design & performance  
+- Clean code & best practices  
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 LinkedIn: *Add your link here*
+- 🌐 Portfolio: *Add your website*
+- 📧 Email: *your-email@example.com*
+
+---
+
+> *"Code is not just about syntax, it's about solving real-world problems with clean and scalable solutions."* 💡
